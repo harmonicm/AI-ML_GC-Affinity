@@ -34,3 +34,14 @@ git clone <your-repo-url>
 cd AI-ML_GC-Affinity
 pip install python-pptx
 python main.py <company-slug>
+
+
+---
+
+Examples
+python main.py automotive-kalyani-forge
+python main.py technology-ksolves
+python main.py logistics-gati
+python main.py pharma-ind-swift
+python main.py entertainment-connplex
+python main.py electronics-centum
